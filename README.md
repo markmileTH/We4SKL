@@ -5,7 +5,13 @@
  Here is an example Brute force WiFi password for test your wifi attack.
 # requirements
 -python3.10+
--user on Wndowe OS
+-user on Wndowe 
+-module need import subprocess
+ os
+ time
+ random
+ threading
+ colorama
 # working principle
 -scan wifi in local
 -select name of wifi
