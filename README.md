@@ -13,8 +13,8 @@
  threading
  colorama
 # working principle
+-select wifi interfate
 -scan wifi in local
 -select name of wifi
--enter password hit
--loop connect and random password
+-loop connect and random password or use wordlist
 -when finish show summarize
